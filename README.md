@@ -1,4 +1,4 @@
-# SQL-Sales
+# SQL-Retail_Sales
 This project involves a retail sales dataset analyzed using SQL to uncover key business insights. The analysis includes:
 
 Exploratory Data Analysis (EDA) to understand sales trends, customer behavior, and product performance
